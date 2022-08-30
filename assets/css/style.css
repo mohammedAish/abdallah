@@ -9847,6 +9847,15 @@ background: #008979;
 .service-section2  h2{
     color: #008979;
 }
+@media screen and (max-width: 990px) {
+  .service-section2 .card   .ico{
+    color: #008979 !important;
+        position: absolute;
+    top: 0;
+    right: -6px;
+}  
+}
+
 
 
 
