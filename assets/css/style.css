@@ -9783,8 +9783,9 @@ h3 a:hover{
     border-radius: 15px;
     background: #ecebeb;
     position: relative;
-        height: 400px;
+        height: 300px;
         font-size: 20px;
+    font-weight: bold;
 
 }
 h1{
@@ -9799,7 +9800,7 @@ h1{
 }
 .service-section2 .card .link i{
     font-size: 50px;
-    font-weight:500;
+    font-weight: bold;
     
 }
 .service_title{
@@ -9810,7 +9811,7 @@ h1{
     margin-left: 38%;
     padding: 26px;
         font-size: 22px;
-     font-weight:700;
+    font-weight: bold;
 
 }
 .service-section2 .card .span{
@@ -9834,12 +9835,19 @@ background: #008979;
 .socia li a{
     color: #fff;
 }
+.service-section2 .card ul li{
+    position: relative
+}
 .service-section2 .card   .ico{
     color: #008979 !important;
+        position: absolute;
+    top: 0;
+    right: -6px;
 }
 .service-section2  h2{
     color: #008979;
 }
+
 
 
 
