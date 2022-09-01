@@ -9778,7 +9778,12 @@ h3 a:hover{
 
 @-webkit-keyframes animateBubble{0%{margin-top:20%}100%{margin-top:-30%}}@-moz-keyframes animateBubble{0%{margin-top:20%}100%{margin-top:-30%}}@keyframes animateBubble{0%{margin-top:20%}100%{margin-top:-30%}}@-webkit-keyframes sideWays{0%{margin-left:0}100%{margin-left:25px}}@-moz-keyframes sideWays{0%{margin-left:0}100%{margin-left:25px}}@keyframes sideWays{0%{margin-left:0}100%{margin-left:25px}}
 
-
+.bgg{
+    background-image: url(../images/pngtree-colorful-bubble-poster-background-image_26703.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .service-section2 .card{
     border-radius: 15px;
     background: #ecebeb;
